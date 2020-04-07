@@ -63,3 +63,23 @@ public class FirstFx extends Application{// application is an abstract class
     }
     
 }
+
+
+
+
+** output**'
+    
+    ant -f C:\\Users\\User\\Documents\\NetBeansProjects\\BuildFirst -Djavac.includes=buildfirst/FirstFx.java -Dnb.internal.action.name=run.single -Drun.class=buildfirst.FirstFx run-single
+init:
+Deleting: C:\Users\User\Documents\NetBeansProjects\BuildFirst\build\built-jar.properties
+deps-jar:
+Updating property file: C:\Users\User\Documents\NetBeansProjects\BuildFirst\build\built-jar.properties
+Compiling 1 source file to C:\Users\User\Documents\NetBeansProjects\BuildFirst\build\classes
+compile-single:
+run-single:
+i love u boss
+i love u boss
+i love u boss
+BUILD SUCCESSFUL (total time: 8 seconds)
+
+
